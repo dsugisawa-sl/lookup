@@ -50,6 +50,7 @@ lookup機能に充分な高速lookup機能を実装する
 |64|100Gbps|148.81|6.72|
 |128|100Gbps|84.86|11.84|
 
+![numa](https://github.com/dsugisawa-sl/lookup/blob/master/doc/0000.png)
 
 
 
